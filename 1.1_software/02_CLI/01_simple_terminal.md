@@ -29,6 +29,7 @@ Learn how to check where you are and explore folders.
 <img width="554" height="235" alt="Screenshot 2026-10-10 095939" src="https://github.com/user-attachments/assets/e4991989-a518-43a1-aa4c-9161b67908fa" />
 
 `images/CLI_step2.jpg`
+<img width="542" height="293" alt="Screenshot 2026-10-10 100217" src="https://github.com/user-attachments/assets/ad67d75a-c80b-41c1-9679-300ffd2ae844" />
 
 `images/CLI_step3.jpg`
 
