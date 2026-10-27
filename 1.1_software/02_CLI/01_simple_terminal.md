@@ -32,7 +32,7 @@ Learn how to check where you are and explore folders.
 <img width="542" height="293" alt="Screenshot 2026-10-10 100217" src="https://github.com/user-attachments/assets/ad67d75a-c80b-41c1-9679-300ffd2ae844" />
 
 `images/CLI_step3.jpg`
-
+![alt text](<Screenshot 2026-10-27 182401.png>)
 `images/CLI_step4.jpg`
 
 `images/CLI_step5.jpg`
