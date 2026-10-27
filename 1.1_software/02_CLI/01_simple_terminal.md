@@ -32,7 +32,7 @@ Learn how to check where you are and explore folders.
 <img width="542" height="293" alt="Screenshot 2026-10-10 100217" src="https://github.com/user-attachments/assets/ad67d75a-c80b-41c1-9679-300ffd2ae844" />
 
 `images/CLI_step3.jpg`
-![alt text](<ss_1>)
+![C:\Users\DELL\Documents\GitHub\Technology-Projects-BLOCK-1\1.1_software\02_CLI\screenshots](<ss_1.png>)
 `images/CLI_step4.jpg`
 
 `images/CLI_step5.jpg`
