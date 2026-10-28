@@ -34,5 +34,5 @@ Practise working with files and folders.
    ```bash
    rm file2.txt
    ```
-![img alt] (screenshots/ss_7.png)
+![image alt](screenshots/ss_7.png)
    
